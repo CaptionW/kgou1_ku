@@ -3,7 +3,10 @@ package com
 /**
   * Created by Administrator on 2018/5/2.
   */
-object
-Demo {
+object Demo {
+
+  def main(args: Array[String]): Unit = {
+    println("你好")
+  }
 
 }
