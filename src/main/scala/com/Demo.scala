@@ -5,5 +5,7 @@ package com
   */
 object
 Demo {
-
+  def main(args: Array[String]): Unit = {
+    println(234324)
+  }
 }
