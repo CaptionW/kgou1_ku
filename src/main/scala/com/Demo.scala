@@ -8,6 +8,8 @@ object Demo {
   def main(args: Array[String]): Unit = {
     println("你好")
     println("你好你好")
+    println(123)
+
   }
 
 }
